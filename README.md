@@ -1,2 +1,7 @@
 # Machine-Learning-AndrewNg-SOLUTIONS
-All the solutions from the programming assignments of the Machine Learning Course in Coursera taught by Andrew NG, Professor of Stanford University
+Content from the Machine Learning Course in Coursera taught by Andrew Ng, Professor of Stanford University
+
+· Solutions of the programming assignments <br> 
+· Lectures notes <br> 
+· Personal summary <br> 
+
